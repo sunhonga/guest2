@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/guest/.idea/guest.iml" filepath="F:/guest/.idea/guest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/guest2.iml" filepath="$PROJECT_DIR$/.idea/guest2.iml" />
+      <module fileurl="file://F:/jichu/.idea/jichu.iml" filepath="F:/jichu/.idea/jichu.iml" />
+    </modules>
+  </component>
+</project>
