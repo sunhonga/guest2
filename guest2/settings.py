@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'sign',#添加sign应用
     'bootstrap3',
 ]
-
+'''中间件，前端的请求的数据依次穿过这些中间件，后台返回的后数据会方向串过这些中间件'''
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
